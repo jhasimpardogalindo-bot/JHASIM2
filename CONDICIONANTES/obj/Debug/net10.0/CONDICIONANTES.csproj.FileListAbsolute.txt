@@ -1,0 +1,15 @@
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\CONDICIONANTES\bin\Debug\net10.0\CONDICIONANTES.exe
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\CONDICIONANTES\bin\Debug\net10.0\CONDICIONANTES.deps.json
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\CONDICIONANTES\bin\Debug\net10.0\CONDICIONANTES.runtimeconfig.json
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\CONDICIONANTES\bin\Debug\net10.0\CONDICIONANTES.dll
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\CONDICIONANTES\bin\Debug\net10.0\CONDICIONANTES.pdb
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\CONDICIONANTES\obj\Debug\net10.0\CONDICIONANTES.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\CONDICIONANTES\obj\Debug\net10.0\CONDICIONANTES.AssemblyInfoInputs.cache
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\CONDICIONANTES\obj\Debug\net10.0\CONDICIONANTES.AssemblyInfo.cs
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\CONDICIONANTES\obj\Debug\net10.0\CONDICIONANTES.csproj.CoreCompileInputs.cache
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\CONDICIONANTES\obj\Debug\net10.0\CONDICIONANTES.sourcelink.json
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\CONDICIONANTES\obj\Debug\net10.0\CONDICIONANTES.dll
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\CONDICIONANTES\obj\Debug\net10.0\refint\CONDICIONANTES.dll
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\CONDICIONANTES\obj\Debug\net10.0\CONDICIONANTES.pdb
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\CONDICIONANTES\obj\Debug\net10.0\CONDICIONANTES.genruntimeconfig.cache
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\CONDICIONANTES\obj\Debug\net10.0\ref\CONDICIONANTES.dll

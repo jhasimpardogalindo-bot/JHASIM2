@@ -1,0 +1,15 @@
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\30ejercicios\bin\Debug\net10.0\30ejercicios.exe
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\30ejercicios\bin\Debug\net10.0\30ejercicios.deps.json
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\30ejercicios\bin\Debug\net10.0\30ejercicios.runtimeconfig.json
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\30ejercicios\bin\Debug\net10.0\30ejercicios.dll
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\30ejercicios\bin\Debug\net10.0\30ejercicios.pdb
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\30ejercicios\obj\Debug\net10.0\30ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\30ejercicios\obj\Debug\net10.0\30ejercicios.AssemblyInfoInputs.cache
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\30ejercicios\obj\Debug\net10.0\30ejercicios.AssemblyInfo.cs
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\30ejercicios\obj\Debug\net10.0\30ejercicios.csproj.CoreCompileInputs.cache
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\30ejercicios\obj\Debug\net10.0\30ejercicios.sourcelink.json
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\30ejercicios\obj\Debug\net10.0\30ejercicios.dll
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\30ejercicios\obj\Debug\net10.0\refint\30ejercicios.dll
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\30ejercicios\obj\Debug\net10.0\30ejercicios.pdb
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\30ejercicios\obj\Debug\net10.0\30ejercicios.genruntimeconfig.cache
+D:\GITHUB\ejerciciosprogra\JHS\JHASIM2\30ejercicios\obj\Debug\net10.0\ref\30ejercicios.dll
